@@ -17,5 +17,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=franciscoemanuel&" alt="franciscoemanuel" /></p>
 
-[![@rphi's Holopin board](https://holopin.io/api/user/board?user=franciscoemanuel)](https://holopin.io/@rphi)
+[![@rphi's Holopin board](https://holopin.io/api/user/board?user=franciscoemanuel)](https://holopin.io/@franciscoemanuel)
 
